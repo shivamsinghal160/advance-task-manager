@@ -39,6 +39,6 @@ A feature-rich **Task Management App** built with **Next.js (App Router)**, supp
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/advanced-task-manager-nextjs.git
+git clone https://github.com/shivamsinghal160/advanced-task-manager-nextjs.git
 cd advanced-task-manager-nextjs
 npm install
